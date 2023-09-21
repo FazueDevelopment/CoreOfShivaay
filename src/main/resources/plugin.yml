@@ -1,0 +1,5 @@
+name: CoreOfShivaay
+version: '${project.version}'
+main: cf.monaz.coreofshivaay.CoreOfShivaay
+api-version: '1.20'
+prefix: cos

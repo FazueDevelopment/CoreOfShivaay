@@ -1,0 +1,4 @@
+name: CoreOfShivaay
+version: '1.0-SNAPSHOT'
+main: cf.monaz.coreofshivaay.CoreOfShivaay
+api-version: '1.20'
